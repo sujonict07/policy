@@ -1,0 +1,3 @@
+Only need camera permission becouse of
+Light is part of camera and for switching on/off - we need this permission.
+No harmfull for the user
